@@ -1,0 +1,21 @@
+* {
+    font-family: Helvetica, sans-serif;
+    
+}
+h2 {
+    font-weight: 200;
+    font-size: 18px;
+    text-align: center;
+}
+h1 {
+    background-color: teal;
+    color: orange;
+    text-align: center;
+}
+li {
+    margin: 10px;
+    text-align: center;
+}
+ul {
+    text-align: center;
+}
